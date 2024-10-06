@@ -59,4 +59,5 @@ public class CEN4802CMidtermTest {
         app.addTask("Task 2");
         assertEquals(2, app.getTasks().size());
     }
-}
+    
+}//end CEN4802CMidtermTest test class
