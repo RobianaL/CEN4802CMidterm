@@ -33,9 +33,9 @@
 
     <!-- Project Build Properties -->
     <properties>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
-        <maven.compiler.release>19</maven.compiler.release> <!-- This sets both source and target and ensures the correct Java modules are included -->
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.release>11</maven.compiler.release> <!-- This sets both source and target and ensures the correct Java modules are included -->
     </properties>
 
     <!-- Maven Build Plugins -->
