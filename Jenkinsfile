@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git branch: 'final-project', url: 'https://github.com/your-repo-url.git'
+                git branch: 'final-project', url: 'https://github.com/RobianaL/CEN4802CMidterm/tree/final-project'
             }
         }
         stage('Build') {
